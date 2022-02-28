@@ -2,7 +2,7 @@
 <br>
 👀 I’m interested in sports, technological field, music, films and TV shows
 <br>
-:mortar_board: I’m currently sophomore at the Kaunas University of Technology enroled in Software Engineering
+:mortar_board: I’m currently undergraduate at the Kaunas University of Technology enroled in Software Engineering
 <br>
  :open_file_folder: I’m always interested in new opportunities
 <br>
